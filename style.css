@@ -1,0 +1,205 @@
+.cover{
+    height: 640px;
+    width: 1360px;
+    background: slategrey;
+    background-image: url(bro.jpg);
+}
+
+.box{
+    height: 60px;
+    width: 200px;
+    background-image: url("draw.png");
+    background-size: 100% 100%;
+}
+
+.cup{
+    height: 30px;
+    width: 70px;
+    background: white;
+    margin-left: 600px;
+    margin-top: -20px;
+    border-radius: 100px;
+    box-shadow:     6px 6px 6px 6px red;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cup-1{
+    height: 30px;
+    width: 130px;
+    background:white;
+    margin-left: 720px;
+    margin-top: -30px;
+    box-shadow: 6px 6px 6px 6px red;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 20px;
+    
+  
+}
+
+.cup-2{
+    height: 30px;
+    width: 110px;
+    background:white;
+    margin-left: 900px;
+    margin-top: -30px;
+    box-shadow: 6px 6px 6px 6px red;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.cup-3{
+    height: 30px;
+    width: 100px;
+    background: white;
+    margin-left: 1050px;
+    border-radius: 100px;
+    text-align: center  ;
+    box-shadow: 6px 6px 6px 6px red;
+    margin-top: -30px;
+    font-size: 20px;
+
+
+}
+
+.cup-4{
+    height: 30px;
+    width: 110px;
+    background:white;
+    margin-left: 1190px;
+    margin-top: -30px;
+    border-radius: 100px;
+    text-align: center;
+    box-shadow: 6px 6px 6px 6px red;
+    font-size: 20px;
+}
+
+.girl{
+    height: 200px;
+    width: 800px;
+    margin-top: 100px;
+    margin-left: 300px;
+    font-size: 50px;
+    color: white;
+}
+
+.girl-1{
+    height: 30px;
+    width: 600px;
+    margin-left: 375px;
+    margin-top: -120px;
+    font-size: 20px;
+    color: white;
+}
+
+.boy{
+    height: 60px;
+    width: 300px;
+    background: white;
+    margin-left: 500px;
+    margin-top: 40px;
+    border-radius: 100px;
+}
+
+.bro{
+    height: 30px;
+    width: 100px;
+    background: yellow;
+    margin-left: 820px;
+    margin-top: -50px;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.love{
+    height: 640px;
+    width: 1360px;
+    background-image: url(enter.jpg);
+    background-size: 100% 100%;
+    padding: 1px;
+}
+
+.love-1{
+    height: 100px;
+    width: 500px;
+    margin-left: 505px;
+    margin-top: 100px;
+    font-size: 40px;
+    color: white;
+}
+
+.give{
+    height: 100px;
+    width: 500px;
+    margin-left: 400px;
+    font-size: 50px;
+    color: white;
+}
+
+.bring{
+    height: 200px;
+    width: 400px;
+    background: white;
+    font-size: 30px;
+    margin-left: 50px;
+    text-align: center;
+
+}
+
+
+.bring-1{
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    margin-left: 99px;
+    margin-top: -140px;
+    text-align: center;
+
+}
+
+.six{
+    height: 200px;
+    width: 400px;
+    background: white;
+    font-size: 30px;
+    margin-left: 500px;
+    text-align: center;
+    margin-top: -260px;
+
+}
+
+
+.six-1{
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    margin-left: 530px;
+    margin-top: -140px;
+    text-align: center;
+
+}
+
+.brown{
+    height: 200px;
+    width: 400px;
+    background:white;
+    font-size: 30px;
+    margin-left: 950px;
+    text-align: center;
+    margin-top: -260px;
+
+}
+
+
+.brown-1{
+    height: 200px;
+    width: 300px;
+    font-size: 20px;
+    margin-left: 1030px;
+    margin-top: -140px;
+
+}
